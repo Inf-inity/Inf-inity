@@ -20,7 +20,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-red)
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-red?style=flat&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-red?style=flat&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/AI-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
 
 
 ## Stats
