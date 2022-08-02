@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=50&color=8622F7&vCenter=true&width=1000&lines=I'm+Infinity;I+like+Python+and+Animes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=50&color=8622F7&vCenter=true&width=1000&lines=I'm+Infinity,+Hello+There!;I+like+Python+and+Animes)](https://git.io/typing-svg)
 
 
 ## Tools
@@ -25,5 +25,7 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Inf-inity&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inf-inity&theme=midnight-purple&show_icons=true&layout=default&card_width=445&hide=go)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=Inf-inity&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inf-inity&theme=midnight-purple&show_icons=true&layout=compact&hide=go"/>
+</a>
