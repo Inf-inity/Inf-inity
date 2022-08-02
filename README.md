@@ -7,8 +7,8 @@
 ![Manjaro](https://img.shields.io/badge/Distro-Manjaro-purple?style=flat&logo=manjaro&logoColor=white)
 
 
-![Python](https://img.shields.io/badge/Langugage-Python-blue?style=flat&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Langugage-Ruby-blue?style=flat&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Language-Ruby-blue?style=flat&logo=ruby&logoColor=white)
 
 
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-darkblue?style=flat&logo=pycharm&logoColor=white)
