@@ -32,7 +32,7 @@ My name is Inf-inity, im a student from Germany, interested in coding mostly wit
 
 # Trophy's
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=inf-inity&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=inf-inity&theme=darkhub&no-bg=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # Stats
